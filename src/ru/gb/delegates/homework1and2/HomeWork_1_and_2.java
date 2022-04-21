@@ -1,4 +1,4 @@
-package ru.gb.delegates;
+package ru.gb.delegates.homework1and2;
 
 import java.util.ArrayList;
 import java.util.Arrays;
