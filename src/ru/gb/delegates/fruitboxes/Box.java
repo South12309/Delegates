@@ -3,7 +3,7 @@ package ru.gb.delegates.fruitboxes;
 import java.util.ArrayList;
 
 public class Box<T extends Fruit> {
-    private ArrayList<T> fruits;
+    private ArrayList<T> fruits = new ArrayList<>();
 
     public void addFruit(T fruit) {
         fruits.add(fruit);
